@@ -1,0 +1,5 @@
+deck.json
+media/*
+!media/_*
+
+.DS_Store
